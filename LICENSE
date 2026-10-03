@@ -1,0 +1,117 @@
+Rowcast End User License Agreement
+
+Version 1.0, October 2026
+
+This is an agreement between you and the developer of Rowcast. Please read it before you
+install or use Rowcast. By installing or using Rowcast, you accept it. If you do not accept
+it, do not install or use Rowcast.
+
+1. Definitions
+
+"Developer" means Avraham Ayele, the author of Rowcast and the licensor under this
+agreement.
+
+"Rowcast" means the Rowcast plugin for JetBrains IDEs, the Rowcast command-line tool, and their
+documentation, including updates the Developer provides.
+
+"JetBrains" means JetBrains s.r.o. and its affiliates. "JetBrains Marketplace" means the
+service at plugins.jetbrains.com through which Rowcast may be distributed.
+
+"You" means the person or the organization that installs or uses Rowcast.
+
+2. Who this agreement is between
+
+The Developer is the licensor of Rowcast. JetBrains is not a party to this agreement and has no
+duties or liability to you under it.
+
+3. License
+
+The Developer gives you a non-exclusive, non-transferable license to install and use Rowcast,
+following its documentation.
+
+  a) Free versions. While Rowcast, or a version of it, is offered free of charge, your license
+     to that version is perpetual.
+
+  b) Paid versions. If the Developer later offers a paid version, its license lasts for the
+     period you paid for, as stated when you buy it. A perpetual license to a free version you
+     already have is not taken away.
+
+The Developer may stop offering a free version in the future. This does not end your license
+to a free version you already have.
+
+4. What you may not do
+
+Unless the Developer allows it in writing, or the law allows it even though this agreement
+says otherwise, you may not:
+
+  a) modify Rowcast or make derivative works from it;
+  b) reverse-engineer, decompile, or disassemble Rowcast;
+  c) sell, rent, lend, sublicense, or redistribute Rowcast;
+  d) remove or change any copyright or license notice in Rowcast.
+
+5. Your data and your requests
+
+Rowcast runs on your computer. It reads the data sources you set up and sends requests only to
+the addresses you set up. It does not send your data, your requests, or usage information to
+the Developer or to anyone else.
+
+You are responsible for the requests you send with Rowcast. Make sure you have permission to
+read the data sources you use and to call the systems you send requests to. Rowcast can send a
+very large number of requests. Do not use it against systems you are not allowed to test.
+
+Passwords you enter in the plugin are kept in your IDE's password store. Rowcast does not write
+them to its files.
+
+6. Third-party components
+
+Rowcast includes software from other authors, for example database drivers and libraries.
+Each of these components is licensed under its own terms, and those terms apply to it.
+Rowcast does not include the IBM DB2 driver. If you use DB2, you get that driver from IBM under
+IBM's own license.
+
+7. Ownership
+
+Rowcast is licensed, not sold. The Developer keeps all rights, title, and interest in Rowcast
+that this agreement does not give to you.
+
+8. No warranty
+
+ROWCAST IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+OR NON-INFRINGEMENT. THE DEVELOPER DOES NOT PROMISE THAT ROWCAST WILL WORK WITHOUT ERRORS OR
+WITHOUT INTERRUPTION.
+
+9. Limit of liability
+
+TO THE EXTENT THE LAW ALLOWS, THE DEVELOPER IS NOT LIABLE FOR ANY INDIRECT, SPECIAL,
+INCIDENTAL, OR CONSEQUENTIAL DAMAGES, OR FOR LOST PROFITS, LOST DATA, OR SYSTEM DOWNTIME,
+ARISING FROM YOUR USE OF ROWCAST OR YOUR INABILITY TO USE IT.
+
+THE DEVELOPER'S TOTAL LIABILITY UNDER THIS AGREEMENT WILL NOT EXCEED THE FEES YOU PAID FOR
+ROWCAST THROUGH JETBRAINS MARKETPLACE IN THE THREE MONTHS BEFORE THE CLAIM. FOR A FREE VERSION,
+THAT AMOUNT IS ZERO.
+
+JETBRAINS IS NOT LIABLE TO YOU FOR ANYTHING RELATED TO ROWCAST.
+
+10. Ending this agreement
+
+This agreement ends automatically if you break it. When it ends, you must stop using Rowcast
+and delete your copies. Sections 2, 6, 7, 8, 9, and 12 continue after it ends.
+
+11. Changes
+
+The Developer may publish a new version of this agreement with a new version of Rowcast. The
+new agreement applies to that new version. The version of the agreement that came with a
+version of Rowcast continues to apply to that version.
+
+12. Governing law
+
+This agreement is governed by the laws of the State of Israel. The courts of Tel Aviv-Yafo,
+Israel, have exclusive jurisdiction over any dispute about it, unless the law where you live
+does not allow this.
+
+13. Contact
+
+Questions about this agreement: avrhamo@gmail.com
+
+Copyright (c) 2026 Avraham Ayele. All rights reserved.
